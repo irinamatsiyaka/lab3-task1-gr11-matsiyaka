@@ -1,3 +1,6 @@
+CC=gcc
+CFLAGS=-Wall -Wextra -Wunused-result
+
 main.o: main.c
 	gcc -c main.c -o main.o
 
