@@ -10,4 +10,4 @@ edit README and add some details, as instance **{Matsiyaka Irina gr11}**.
 
 # Building
 
-Please, import repository and use for repl.it project, which is defined in the assignment "labrabota 3".
+https://github.com/irinamatsiyaka/lab3-task1-gr11-matsiyaka.git
